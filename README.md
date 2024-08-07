@@ -5,6 +5,9 @@ Welcome to the C-Programming-Practice-Problems repository! This repository conta
 Features:
 
 Diverse Problems: From basic syntax and control structures to advanced data structures and algorithms.
+
 Difficulty Levels: Problems are categorized into different levels of difficulty to help you progressively build your skills.
+
 Solutions: Each problem comes with a solution and, in some cases, explanations to help you understand the concepts.
+
 Community Contributions: Feel free to contribute your own problems and solutions to help others learn.
